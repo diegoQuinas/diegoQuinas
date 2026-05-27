@@ -1,4 +1,4 @@
-## Diego Pérez Giordán
+## Diego Perez Giordán
 
 Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservices for a multi-country e-commerce platform serving 5+ countries. Open-source contributor to **Apache DataFusion**, working in Rust on high-performance query engine internals.
 
