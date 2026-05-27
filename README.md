@@ -15,7 +15,9 @@ Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservic
 ### Tech I use
 
 **Production:** Go · PostgreSQL · gRPC · REST · Docker · Linux
+
 **Open source & side projects:** Rust · Apache Arrow · async Rust · Dioxus
+
 **Comfortable with:** Node.js / TypeScript · Python · Java · MySQL
 
 ### Interests
@@ -30,7 +32,11 @@ Distributed systems · Query engines & columnar data · Financial infrastructure
 - 💼 [LinkedIn](https://www.linkedin.com/in/diego-perezgiordan)
 - ✉️ diegoperezgiordan@gmail.com
 
+<!--
+Re-enable once github-readme-stats public instance is back up (Vercel DEPLOYMENT_PAUSED as of 2026-05-27).
+
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoQuinas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoQuinas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+-->
 
