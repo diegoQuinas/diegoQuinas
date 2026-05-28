@@ -29,7 +29,7 @@ Distributed systems · Query engines & columnar data · Financial infrastructure
 ### Get in touch
 
 - 🌐 [diegoquinas.github.io](https://diegoquinas.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perezgiordan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-giordan)
 - ✉️ diegoperezgiordan@gmail.com
 
 <!--
