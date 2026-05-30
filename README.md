@@ -2,7 +2,7 @@
 
 Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservices for a multi-country e-commerce platform serving 5+ countries. Open-source contributor to **Apache DataFusion**, working in Rust on high-performance query engine internals.
 
-📍 Uruguay · 🌎 Open to remote · 🗣️ Spanish (native) · English (C2)
+📍 Uruguay · 🌎 GMT -3 · 🗣️ Spanish (native) · English (C2)
 
 ---
 
