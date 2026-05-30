@@ -9,7 +9,7 @@ Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservic
 ### What I'm working on
 
 - **Day job** — Go microservices, REST/gRPC, PostgreSQL. Recently migrated 15 legacy endpoints with up to 60% latency reduction using goroutines and semaphores.
-- **Open source** — Contributing to [Apache DataFusion](https://github.com/apache/datafusion): PR [#21710](https://github.com/apache/datafusion/pull/21710) (approved, awaiting merge) — 2-argument `ceil(value, scale)` for Spark compatibility in `datafusion-spark`. Also PR [#21728](https://github.com/apache/datafusion/pull/21728) — render binary columns as hex in `DataFrame::describe()`.
+- **Open source** — Contributing to [Apache DataFusion](https://github.com/apache/datafusion)
 - **Side project** — `minifusion`, a from-scratch mini analytical query engine in Rust, inspired by DataFusion. Learning columnar processing, expression evaluation, and physical execution plans the hard way.
 
 ### Tech I use
