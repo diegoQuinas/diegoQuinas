@@ -25,13 +25,6 @@ Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservic
 Distributed systems · Query engines & columnar data · Financial infrastructure · Verifiable computation · Systems-level Rust
 
 ---
-
-### Get in touch
-
-- 🌐 [diegoquinas.github.io](https://diegoquinas.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-giordan)
-- ✉️ diegoperezgiordan@gmail.com
-
 <!--
 Re-enable once github-readme-stats public instance is back up (Vercel DEPLOYMENT_PAUSED as of 2026-05-27).
 
