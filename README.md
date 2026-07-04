@@ -8,9 +8,9 @@ Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservic
 
 ### What I'm working on
 
-- **Day job** — Go microservices, REST/gRPC, PostgreSQL. Recently migrated 15 legacy endpoints with up to 60% latency reduction using goroutines and semaphores.
-- **Open source** — Contributing to [Apache DataFusion](https://github.com/apache/datafusion)
-- **Side project** — `minifusion`, a from-scratch mini analytical query engine in Rust, inspired by DataFusion. Learning columnar processing, expression evaluation, and physical execution plans the hard way.
+- **Day job**: Go microservices, REST/gRPC, PostgreSQL. Recently migrated 15 legacy endpoints with up to 60% latency reduction using goroutines and semaphores.
+- **Open source**: Contributing to [Apache DataFusion](https://github.com/apache/datafusion)
+- **Side project**: `minifusion`, a from-scratch mini analytical query engine in Rust, inspired by DataFusion. Learning columnar processing, expression evaluation, and physical execution plans the hard way.
 
 ### Tech I use
 
