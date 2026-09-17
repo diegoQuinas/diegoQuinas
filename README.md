@@ -12,14 +12,6 @@ Uruguay - (GMT -3) - Spanish (native) - English
 - **Open source**: Some small contributions to [Apache DataFusion](https://github.com/apache/datafusion)
 - **Side project**: Some ECS Bevy simulations, toy Axum backend projects, accounting software made in Tauri 2.0
 
-### Tech I use
-
-**Production:** Go - PostgreSQL - gRPC - REST - Kubernetes
-
-**Open source & side projects:** Rust - Dioxus - Bevy - Axum
-
-**Comfortable with:** Node.js / TypeScript - MySQL
-
 ---
 <!--
 Re-enable once github-readme-stats public instance is back up (Vercel DEPLOYMENT_PAUSED as of 2026-05-27).
