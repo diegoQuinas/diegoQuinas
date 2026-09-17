@@ -1,28 +1,24 @@
 ## Diego Perez Giordán
 
-Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservices for a multi-country e-commerce platform serving 5+ countries. Open-source contributor to **Apache DataFusion**, working in Rust on high-performance query engine internals.
+Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservices for a multi-country e-commerce platform serving 5+ countries. 
 
-📍 Uruguay · 🌎 GMT -3 · 🗣️ Spanish (native) · English (C2)
+Uruguay - (GMT -3) - Spanish (native) - English
 
 ---
 
 ### What I'm working on
 
-- **Day job**: Go microservices, REST/gRPC, PostgreSQL. Recently migrated 15 legacy endpoints with up to 60% latency reduction using goroutines and semaphores.
-- **Open source**: Contributing to [Apache DataFusion](https://github.com/apache/datafusion)
-- **Side project**: `minifusion`, a from-scratch mini analytical query engine in Rust, inspired by DataFusion. Learning columnar processing, expression evaluation, and physical execution plans the hard way.
+- **Day job**: Go microservices, REST/gRPC, PostgreSQL. 
+- **Open source**: Some small contributions to [Apache DataFusion](https://github.com/apache/datafusion)
+- **Side project**: Some ECS Bevy simulations, toy Axum backend projects, accounting software made in Tauri 2.0
 
 ### Tech I use
 
-**Production:** Go · PostgreSQL · gRPC · REST · Docker · Linux
+**Production:** Go - PostgreSQL - gRPC - REST - Kubernetes
 
-**Open source & side projects:** Rust · Apache Arrow · async Rust · Dioxus
+**Open source & side projects:** Rust - Dioxus - Bevy - Axum
 
-**Comfortable with:** Node.js / TypeScript · Python · Java · MySQL
-
-### Interests
-
-Distributed systems · Query engines & columnar data · Financial infrastructure · Verifiable computation · Systems-level Rust
+**Comfortable with:** Node.js / TypeScript - MySQL
 
 ---
 <!--
