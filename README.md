@@ -2,7 +2,7 @@
 
 Backend Engineer at **Cencosud** (top-3 LATAM retailer), building Go microservices for a multi-country e-commerce platform serving 5+ countries. 
 
-Uruguay - (GMT -3) - Spanish (native) - English
+Uruguay - (GMT -3) - Spanish (native) - English (speak and write)
 
 ---
 
