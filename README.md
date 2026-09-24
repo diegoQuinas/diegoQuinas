@@ -10,9 +10,8 @@ Uruguay - (GMT -3) - Spanish (native) - English
 
 - **Day job**: Go microservices, REST/gRPC, PostgreSQL. 
 - **Open source**: Some small contributions to [Apache DataFusion](https://github.com/apache/datafusion)
-- **Side project**: Some ECS Bevy simulations, toy Axum backend projects, accounting software made in Tauri 2.0
-- **Free time**: I have a Rust reimplementation of OpenTibiaServer just for hanging around
-
+- **Side project**: From ECS Bevy simulations, to Axum backend projects, and accounting software made in Tauri 2.0
+- **Free time**: I have a Rust reimplementation of the TFS OpenTibia Server
 <!--
 Re-enable once github-readme-stats public instance is back up (Vercel DEPLOYMENT_PAUSED as of 2026-05-27).
 
